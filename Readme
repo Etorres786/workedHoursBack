@@ -1,0 +1,10 @@
+Buenas Tardes.
+
+Adjunto se encuentra comprimido la prueba tecnica, para la implementación se desarrollo un componente backend el cual utiliza una base de datos local de mysql y para el front se hizo uso de angular para el desarrollo.
+
+Para la prueba de esta prueba basta con levantar el back en el id como un proyecto Spring boot y garantizar el el aplicaction.properties tenga la configuración correcta con la base de datos mysql a la cual se va conectar.
+
+Para el front se debe poner a correr de manera local el proyecto usando el comando ng serve.
+
+Para esta prueba se sugeria el despliegue utilizando docker, pero al momento no me fue posible realizar esta implementación.
+
